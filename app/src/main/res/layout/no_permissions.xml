@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:layout_gravity="center">
+    android:layout_gravity="center"
+    android:background="#FFFF00"
+    android:gravity="center_vertical|center_horizontal"
+    android:orientation="vertical"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp">
 
     <TextView
         android:id="@+id/textView9"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
-        android:text="Vaya! Parece que no tienes los permisos instalados" />
+        android:text="Vaya! Parece que no tienes los permisos instalados para obtener tu ubicacion. Por favor aceptalos para poder continuar y abre nuevamente la aplicacion."
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textColor="#2979FF"
+        android:textSize="30dp"
+        android:textStyle="bold|italic" />
 </LinearLayout>

@@ -5,6 +5,17 @@
 
     <uses-permission android:name="android.permission.INTERNET"></uses-permission>
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"></uses-permission>
+
+    <!--Creo el permiso para que la llave solo pueda ser usada en esta aplicacion-->
+    <permission
+        android:name="com.example.fatima.kali.permission.MAPS_RECEIVE"
+        android:protectionLevel="signature"></permission>
+    <!--Llamo el permiso que acabo de crear-->
+    <uses-permission android:name="com.example.fatima.kali.permission.MAPS_RECEIVE"></uses-permission>
+
+    <uses-permission android:name="com.google.android.providers.gsf.permissions.READ_GSERVICES"></uses-permission>
+
+    
     
     <application
         android:allowBackup="true"

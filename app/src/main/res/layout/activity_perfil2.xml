@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:weightSum="1">
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="498dp"
+        android:orientation="vertical"
+        android:layout_weight="1.25">
+
+        <Button
+        android:id="@+id/mensajes"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Mensajes" />
+
+        <Button
+            android:id="@+id/historial"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Historial de llamadas" />
+
+        <Button
+            android:id="@+id/agenda"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Agenda" />
+        <Button
+        android:id="@+id/vendedor"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Vendedor" />
+
+        <Button
+            android:id="@+id/legal"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Legal" />
+
+    </LinearLayout>
+
+    <GridLayout
+        android:id="@+id/gridLayout1"
+        android:layout_width="368dp"
+        android:layout_height="65dp"
+        android:layout_gravity="center_horizontal"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="0dp">
+
+        <ImageButton
+            android:id="@+id/miNegocio"
+            android:layout_width="92.0dp"
+            android:layout_height="60.0dp"
+            android:layout_marginEnd="0dp"
+            android:layout_marginLeft="5dp"
+            android:background="#ffffff"
+            android:baselineAlignBottom="true"
+            android:scaleType="fitXY" />
+
+        <ImageButton
+            android:id="@+id/buscar"
+            android:layout_width="92.0dp"
+            android:layout_height="60.0dp"
+            android:layout_marginEnd="0dp"
+            android:background="#ffffff"
+            android:scaleType="fitXY" />
+
+        <ImageButton
+            android:id="@+id/promociones"
+            android:layout_width="92.0dp"
+            android:layout_height="60.0dp"
+            android:layout_marginEnd="0dp"
+            android:background="#ffffff"
+            android:scaleType="fitXY" />
+
+        <ImageButton
+            android:id="@+id/perfil"
+            android:layout_width="92.0dp"
+            android:layout_height="60.0dp"
+            android:layout_marginEnd="0dp"
+            android:background="#ffffff"
+            android:scaleType="fitXY" />
+
+    </GridLayout>
+    </LinearLayout>
+

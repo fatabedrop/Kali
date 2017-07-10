@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="25px"
+    android:minHeight="25px">
+
+    <EditText
+        android:id="@+id/nombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:inputType="textPersonName"
+        android:text="Nombre completo" />
+
+    <EditText
+        android:id="@+id/numtarjeta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:text="Nùmero de trajeta"
+        android:inputType="number" />
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp">
+
+        <EditText
+            android:id="@+id/numsecreto"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="number"
+            android:text="CVV" />
+
+        <EditText
+            android:id="@+id/mvencimiento"
+            android:layout_width="102dp"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="number"
+            android:text="DD" />
+
+        <EditText
+            android:id="@+id/avencimeinto"
+            android:layout_width="102dp"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="number"
+            android:text="AAAA" />
+
+    </GridLayout>
+
+    <TextView
+        android:id="@+id/tyc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="Terminos y condiciones"
+        android:textAlignment="center"/>
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/ver"
+            android:layout_width="100dp"
+            android:layout_marginLeft="100dp"
+            android:layout_height="wrap_content"
+            android:text="Button" />
+
+        <Button
+            android:id="@+id/aceptar"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_column="0"
+            android:layout_marginLeft="200dp"
+            android:text="Button" />
+
+    </GridLayout>
+
+    <Button
+        android:id="@+id/ayuda"
+        android:layout_marginTop="100dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:text="Button" />
+
+    <GridLayout
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/atras"
+            android:layout_width="100dp"
+            android:layout_marginLeft="100dp"
+            android:layout_height="wrap_content"
+            android:text="Button" />
+
+        <Button
+            android:id="@+id/siguiente"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_column="0"
+            android:layout_marginLeft="200dp"
+            android:text="Button" />
+
+    </GridLayout>
+
+
+</LinearLayout>

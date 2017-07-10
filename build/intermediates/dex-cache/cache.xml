@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fatima\.android\build-cache\9f8b45a6b5b5350e97e4d56acf336b805a8e322c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Fatima\AndroidStudioProjects\Kali\app\build\intermediates\pre-dexed\debug\classes_443523069eb112f95375f0572c2140047d016234.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fatima\.android\build-cache\e6dbe44b6adf120362ad64906285f32b01676a89\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Fatima\AndroidStudioProjects\Kali\app\build\intermediates\pre-dexed\debug\classes_848b8330bbf7b256a8f9903a15e7dba3d6384a44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fatima\.android\build-cache\04bda3972b186eea17d7bb501f33cbbb0f3838df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Fatima\AndroidStudioProjects\Kali\app\build\intermediates\pre-dexed\debug\classes_acf849b088e390849c0b08e7142f77986350060e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fatima\.android\build-cache\d7cf9a5d813c704a05699930d9562bcb9e76ea6c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Fatima\AndroidStudioProjects\Kali\app\build\intermediates\pre-dexed\debug\classes_d657bd3c34a182aadd0e8731b3fec16d03a12449.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fatima\.android\build-cache\18b2ca8b369f55536a73fd302052e32289b0146f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Fatima\AndroidStudioProjects\Kali\app\build\intermediates\pre-dexed\debug\classes_4be6f7ef7266836d1f8f19aff683be730b935264.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fatima\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Fatima\AndroidStudioProjects\Kali\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_9010b5b5afcbaa0d9dfb1e8fe78d9a78d8aaf424.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fatima\.android\build-cache\9b3b2b51d0eec23cdb20e0dfb2ed381e9fb518a5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Fatima\AndroidStudioProjects\Kali\app\build\intermediates\pre-dexed\debug\classes_edb6de968f7c949f429ffa7de2cb74925676b77b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fatima\.android\build-cache\d84e7dc3c6e064675b1b0a9b050c374698521919\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Fatima\AndroidStudioProjects\Kali\app\build\intermediates\pre-dexed\debug\classes_7d816715106d3949f627f85208bdf22029abc23b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fatima\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Fatima\AndroidStudioProjects\Kali\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_022a91bb3aa186aa065f1b21d1f667ae0e27ec5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fatima\.android\build-cache\be2a47662812374e5e85b2357ede052be52b1ad9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Fatima\AndroidStudioProjects\Kali\app\build\intermediates\pre-dexed\debug\classes_d96c67a32480a28a815fe6af138d10151714d89e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fatima\.android\build-cache\aed26326334b52ed573d1fb0dd1940f6d4f6e439\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Fatima\AndroidStudioProjects\Kali\app\build\intermediates\pre-dexed\debug\classes_06f8de45a8420d3b83d230d04674e70ddf9bbd24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fatima\.android\build-cache\667d5f37217317dcacad7a58dd80a38ac05e8dea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="C:\Users\Fatima\AndroidStudioProjects\Kali\app\build\intermediates\pre-dexed\debug\classes_0d1840b3140b5d1702a5bc8046cdeaf446a8896c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fatima\.android\build-cache\f5b7680d75e11661cc2c98312cded1c7f92206fa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="db939a450ea2a721db84e774bf108e20c44a8a1d">
+        <dex dex="C:\Users\Fatima\AndroidStudioProjects\Kali\app\build\intermediates\pre-dexed\debug\classes_d20c0f051b03d6c4d78a888c631e46dfdadd306c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fatima\.android\build-cache\55e4795bc216756e8720b0c9e267335c50539de5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="C:\Users\Fatima\AndroidStudioProjects\Kali\app\build\intermediates\pre-dexed\debug\classes_448ec4bff6b13bc51977319af54706943eaa6105.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fatima\.android\build-cache\c24473b523a9927d0f716507bd192653b39361d0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="C:\Users\Fatima\AndroidStudioProjects\Kali\app\build\intermediates\pre-dexed\debug\classes_31fbfe11920fc580fb15ab5a821db7fceb314745.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fatima\.android\build-cache\0f30046713383e3e0920a794dea7dc8a4938f7a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Fatima\AndroidStudioProjects\Kali\app\build\intermediates\pre-dexed\debug\classes_6ad50a6a8818f17bf0fbbfc626b9c58014702cc9.jar" />
+    </item>
+
+</items>

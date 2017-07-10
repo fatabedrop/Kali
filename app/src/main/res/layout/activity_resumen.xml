@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:weightSum="1">
+
+
+
+    <ScrollView
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:id="@+id/scrollView1">
+        <LinearLayout
+            android:orientation="vertical"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="450dp"
+            android:id="@+id/linearLayout1">
+            <GridLayout
+                android:minWidth="25px"
+                android:minHeight="25px"
+                android:id="@+id/gridLayout2"
+                android:layout_marginTop="50.0dp"
+                android:layout_height="82.0dp"
+                android:layout_width="351.0dp">
+            <TextView
+                android:id="@+id/nombre"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:inputType="textPersonName"
+                android:text="Nombre de la persona a tratar" />
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="121dp"
+                android:layout_column="1"
+                android:layout_height="match_parent"
+                app:srcCompat="@drawable/common_full_open_on_phone" />
+
+            <TextView
+                android:id="@+id/nombreempresa"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:layout_row="0"
+                android:layout_marginTop="30dp"
+                android:layout_column="0"
+                android:inputType="textPersonName"
+                android:text="Nombre pùblico o de la empresa" />
+
+                <TextView
+                    android:id="@+id/telefono"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:layout_row="0"
+                    android:layout_marginTop="60dp"
+                    android:layout_column="0"
+                    android:text="Tel. Pùblico"
+                    android:inputType="phone" />
+            </GridLayout>
+
+            <TextView
+                android:id="@+id/mail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:ems="10"
+                android:text="Mail"
+                android:inputType="textEmailAddress" />
+
+            <TextView
+                android:id="@+id/horario"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:ems="10"
+                android:text="Horario"
+                android:inputType="date" />
+
+            <TextView
+                android:id="@+id/categoria"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:layout_marginTop="15dp"
+                android:inputType="textPersonName"
+                android:text="Categoria" />
+
+            <TextView
+                android:id="@+id/palabrasclave"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:layout_marginTop="15dp"
+                android:inputType="textPersonName"
+                android:text="Palabras clave de bùsqueda" />
+
+            <TextView
+                android:id="@+id/descripcion"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:layout_marginTop="15dp"
+                android:text="Descripciòn"
+                android:inputType="textMultiLine"
+                android:layout_weight="0.10" />
+
+            <TextView
+                android:id="@+id/domiciliofijo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:layout_marginTop="15dp"
+                android:text="Domicilio fijo"
+                android:inputType="textPostalAddress" />
+
+            <GridLayout
+                android:layout_width="match_parent"
+                android:layout_marginTop="35dp"
+                android:layout_height="wrap_content">
+
+                <Button
+                    android:id="@+id/atras"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:text="Button" />
+
+                <Button
+                    android:id="@+id/siguiente"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_column="0"
+                    android:layout_marginLeft="250dp"
+                    android:text="Button" />
+
+            </GridLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

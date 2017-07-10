@@ -40,7 +40,8 @@
         <activity android:name=".AgendaActivity" />
         <activity android:name=".VentasActivity" />
         <activity android:name=".EditarPerfilActivity" />
-        <activity android:name=".PerfilAjenoActivity"></activity>
+        <activity android:name=".PerfilAjenoActivity" />
+        <activity android:name=".MapaActivity"></activity>
     </application>
 
 </manifest>
